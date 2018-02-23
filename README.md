@@ -1,5 +1,5 @@
 # hw3
-## Мой опрос был посвящен сну и сновидениям 
+## Мой опрос был посвящен теме сна и сновидениям 
 ### В нём поучаствовало 59 человек!
 #### Ссылка на форму: 
 https://docs.google.com/forms/d/e/1FAIpQLScPSnrnlOPFgW2W9XYhsbqHYFd--BhCCuDD778Bliu8S2yMYA/closedform
